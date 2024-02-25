@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Karakter
+  - Enemy
+  - mermi
+  - Giant
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - Enviorenment
+  - mermi
+  - Giant
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Layer 1
+  - Layer 2
+  - Layer 3
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Layer 1
+    uniqueID: 2425651459
+    locked: 0
+  - name: Layer 2
+    uniqueID: 4250941897
+    locked: 0
+  - name: Layer 3
+    uniqueID: 4189426099
+    locked: 0
+  - name: layer 4
+    uniqueID: 167298993
+    locked: 0
+  - name: layer5
+    uniqueID: 3548782733
+    locked: 0
+  - name: New Layer 6
+    uniqueID: 1591573801
+    locked: 0
+  - name: New Layer 7
+    uniqueID: 2427375425
+    locked: 0
+  - name: karakterLegs
+    uniqueID: 3499159657
+    locked: 0
+  - name: karakterbody
+    uniqueID: 4142819843
+    locked: 0
+  - name: Karakter
+    uniqueID: 3673146045
+    locked: 0
+  - name: cimenDuvar
+    uniqueID: 3314856915
+    locked: 0
+  - name: efsun
+    uniqueID: 2643084661
+    locked: 0
